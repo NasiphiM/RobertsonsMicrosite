@@ -1,0 +1,7 @@
+{
+  "name": "RobetsonsBraaiMobiSite",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
